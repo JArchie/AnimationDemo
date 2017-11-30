@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnimationDemo</string>
+    <string name="state">开始/结束</string>
+    <string name="translate">平移</string>
+    <string name="scale">缩放</string>
+    <string name="alpha">透明度</string>
+    <string name="rotate">旋转</string>
+    <string name="property">属性动画</string>
+</resources>
